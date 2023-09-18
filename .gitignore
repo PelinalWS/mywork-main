@@ -2,3 +2,5 @@ node_modules
 PSQL.session.sql
 db.js
 authKeys.json
+package-lock.json
+.vscode
